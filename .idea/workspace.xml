@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b8471a69-e1ff-4e89-8527-74a499d701a7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/default.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/default.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +41,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585456595563</updated>
-      <workItem from="1585456601693" duration="5015000" />
+      <workItem from="1585456601693" duration="6632000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../CristoEnTodoWebsite/versions/3.12.1/node_modules/intl-messageformat/core.js" />
+        <option value="$PROJECT_DIR$/../CristoEnTodoWebsite/versions/3.12.1/node_modules/intl-messageformat/core.d.ts" />
+      </list>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="110" key="FileChooserDialogImpl" timestamp="1585457569573">
